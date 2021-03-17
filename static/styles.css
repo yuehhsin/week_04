@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* border: solid 1px black; */
+}
+.headline{
+    background-color: #1E88A8;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.subtitle{
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.form{
+    text-align: center;
+}
+.title{
+    padding: 10px;
+}
+.btn{
+    padding: 5px;
+    margin: 20px;
+}
+.content{
+    text-align: center;
+}
